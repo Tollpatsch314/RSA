@@ -6,3 +6,15 @@
   -  need the type (encryption/decryption), an input-file, an output-file <, and an step-documatation-file>
     -  e.g.: `crypt -e input.txt -o output.txt -d doc.txt`
 - WinForm-UI -> manage the access to the cmdline-tool
+
+## Sources
+-https://en.wikibooks.org/wiki/Cryptography/Generate_a_keypair_using_OpenSSL
+-https://www.happycoders.eu/de/algorithmen/o-notation-zeitkomplexitaet/
+
+### Prime Numbers
+-https://de.wikipedia.org/wiki/Miller-Rabin-Test
+-https://de.wikipedia.org/wiki/Sieb_von_Atkin
+
+### RSA
+-https://de.wikipedia.org/wiki/RSA-Kryptosystem
+-https://en.wikipedia.org/wiki/RSA_(cryptosystem)
