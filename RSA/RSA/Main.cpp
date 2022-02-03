@@ -1,9 +1,16 @@
 #include "Version.h"
 #include "ProgParam.h"
+#include "BigInt0.h"
 #include <cstdio>
 #include <cstdarg>
 #include <cstring>
 #include <exception>
+
+// ### TODO-List
+// TODO: prime-number-generation algoritm for very large prime-numbers
+// TODO: argument-handling (in progress)
+// TODO: binary exponentation to make the modular exponentation faster
+// TODO: make a (own) BigInt-libary for numbers > uint64_t (in progress) 
 
 
 __forceinline void ERROR_MSG(int exit_code, const char* const msg, ...) {
@@ -56,7 +63,7 @@ int main(int argc, char **argv) {
 		}
 		else if (strcmp("-TE", *argv)) params.type = PROG_PARAM_TYPE_ENCRYPT;
 		else if (strcmp("-TD", *argv)) params.type = PROG_PARAM_TYPE_DECRYPT;
-		
+		else if (strcmp("-J", *argv)) params.doc_json = "true";
 
 	}
 

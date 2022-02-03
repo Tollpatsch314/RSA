@@ -18,7 +18,10 @@
     <ClCompile Include="Main.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
-    <ClCompile Include="BigInt.cpp">
+    <ClCompile Include="Crypto.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="BigInt0.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
   </ItemGroup>
@@ -32,7 +35,7 @@
     <ClInclude Include="Crypto.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
-    <ClInclude Include="BigInt.h">
+    <ClInclude Include="BigInt0.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
   </ItemGroup>
