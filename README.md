@@ -8,13 +8,14 @@
 - WinForm-UI -> manage the access to the cmdline-tool
 
 ## Sources
--https://en.wikibooks.org/wiki/Cryptography/Generate_a_keypair_using_OpenSSL
--https://www.happycoders.eu/de/algorithmen/o-notation-zeitkomplexitaet/
+- https://www.happycoders.eu/de/algorithmen/o-notation-zeitkomplexitaet/
 
 ### Prime Numbers
--https://de.wikipedia.org/wiki/Miller-Rabin-Test
--https://de.wikipedia.org/wiki/Sieb_von_Atkin
+- https://de.wikipedia.org/wiki/Miller-Rabin-Test
+- https://de.wikipedia.org/wiki/Sieb_von_Atkin
+- https://en.wikibooks.org/wiki/Cryptography/Generate_a_keypair_using_OpenSSL
 
 ### RSA
--https://de.wikipedia.org/wiki/RSA-Kryptosystem
--https://en.wikipedia.org/wiki/RSA_(cryptosystem)
+- https://de.wikipedia.org/wiki/RSA-Kryptosystem
+- https://en.wikipedia.org/wiki/RSA_(cryptosystem)
+- https://de.wikipedia.org/wiki/Bin%C3%A4re_Exponentiation
