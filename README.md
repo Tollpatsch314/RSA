@@ -19,3 +19,6 @@
 - https://de.wikipedia.org/wiki/RSA-Kryptosystem
 - https://en.wikipedia.org/wiki/RSA_(cryptosystem)
 - https://de.wikipedia.org/wiki/Bin%C3%A4re_Exponentiation
+
+### Bignums/BigInts for the RSA-Calculation
+- https://gmplib.org/
