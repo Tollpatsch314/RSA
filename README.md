@@ -22,3 +22,7 @@
 
 ### Bignums/BigInts for the RSA-Calculation
 - https://gmplib.org/
+
+### RSA general
+- https://www.youtube.com/watch?v=gFd_SZZF63I
+- https://www.inf.hs-flensburg.de/lang/krypto/protokolle/rsa.htm
