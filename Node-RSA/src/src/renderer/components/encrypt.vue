@@ -66,8 +66,8 @@ div.Page {
         padding: 0;
         margin: 1vw 0vw;
         width: 30vw;
-        height: 46vw;
-        border: 1px solid grey;
+        height: 83vh;
+        border: 0.1vw solid grey;
 
         display: flex;
         flex-direction: column;
@@ -78,12 +78,12 @@ div.Page {
 
         textarea.one {
             width: 26vw;
-            height: 12vw;
+            height: 18vh;
         }
 
         textarea.two {
             width: 26vw;
-            height: 20vw;
+            height: 40vh;
         }
     }
 
@@ -93,7 +93,7 @@ div.Page {
         
         font-size: 1vw;
         width: 20vw;
-        height: 2.5vw;
+        height: 5vh;
         border-radius: 0.5vw;
         border: none;
 
